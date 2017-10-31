@@ -10,7 +10,11 @@ package gt.edu.url.examen2.problema5;
  */
 
 public interface Stack<E> {
-
+    /**
+     * Return stacks full
+     * @return true if satck is full, false otherwise
+     */
+        public boolean isStackFull();
 	/**
 	 * Returns stack elements count
 	 * @return number of elements in stack

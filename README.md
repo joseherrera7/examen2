@@ -1,0 +1,6 @@
+SOLUCION A EXAMEN 2
+========================
+JOSE CARLOS HERRERA FRANCO          CARNE: 1007217
+
+BUENAS NOCHES :(
+
